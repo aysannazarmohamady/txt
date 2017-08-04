@@ -1,0 +1,34 @@
+*
+Harry
+hogwarts
+gryffindor
+pure blood
+student
+
+*
+Fleur De cour
+Beauxbatton
+N/A
+part human
+student
+
+*
+Albus Dumbledre
+hogwarts
+gryffindor
+pure blood
+professor
+
+*
+Severus Snap
+hogwart
+slytherin
+half blood
+professor
+
+*
+Ron Weasley
+hogwarts
+gryffindor
+pure blood
+student

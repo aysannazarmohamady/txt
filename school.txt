@@ -1,0 +1,19 @@
+Hogwarts
+4
+Gryffindor
+Hufflepuff
+Ravenclaw
+Slytherin
+2
+Flying
+Potions
+3
+Nevile Longbottom
+Luna Lovegood
+Lavender Brown
+2
+Minerva McGonagol
+Severus Snape
+*
+$
+
